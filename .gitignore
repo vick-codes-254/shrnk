@@ -1,0 +1,7 @@
+data/
+data/*.sqlite
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
